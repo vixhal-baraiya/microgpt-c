@@ -1326,10 +1326,15 @@ gcc -O3 -march=native -ffast-math -o gpt gpt.c -lm
 Create an `input.txt` with training data (one document per line):
 
 ```
-Hello world
-Machine learning
-Artificial intelligence
-Deep neural networks
+can you make those wheels spin around?
+that's pretty cool.
+look at that.
+vroom vroom vroom.
+bang bang.
+.
+.
+.
+<80000+ lines>
 ```
 
 Run:
